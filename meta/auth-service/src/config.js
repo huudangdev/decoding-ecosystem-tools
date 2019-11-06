@@ -1,3 +1,4 @@
 module.exports = {
-    serviceName: 'auth'
+    serviceName: 'auth',
+    authSecret: process.env.AUTH_SECRET,
 }
