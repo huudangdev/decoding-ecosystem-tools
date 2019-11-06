@@ -1,0 +1,21 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "outside": "bin/outside"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "minimist": "^1.2.0",
+    "outside-cli": "^1.0.0",
+    "save": "^2.4.0"
+  }
+}
