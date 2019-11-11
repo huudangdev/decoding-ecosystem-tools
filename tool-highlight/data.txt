@@ -1,0 +1,5 @@
+Lúc trước, mình từng trải qua thời gian không biết phải bắt đầu từ đâu trong con đường lập trình, đi cùng với nhiều thắc mắc mà không ai giải đáp.
+
+Blog này là nơi mình chia sẻ những kiến thức, kinh nghiệm mà mình đạt được trong quá trình học tập, làm việc và trải nghiệm.
+
+Hi vọng rằng, nó sẽ phần nào giúp ích cho các bạn sinh viên như mình của ngày xưa.
